@@ -1,0 +1,132 @@
+h1, h2, h3, h4{
+	color: #79b84f;
+}
+
+h1{
+	font-family: "Baar Sophia", "Arial";
+	font-size: 50px;
+}
+
+h2{
+	font-family: "Gabriola", "Arial";
+	font-size: 40px;
+}
+
+h3{
+	font-family: "Gabriola", "Arial";
+	font-size: 30px;
+}	
+
+h4{
+	font-family: "Gabriola", "Arial";
+	font-size: 20px;
+}
+
+p{
+	font-size: 17px;
+}
+
+ol{
+	font-size: 17px;
+}
+
+a{
+	text-decoration-line: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: 'Anton', sans-serif;
+	vertical-align: middle;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+a:hover{
+	color: #fff;
+	font-size: 18px;
+	font-weight: bolder;
+	background: #b6ffa0;
+	border-radius: 10px;
+	border: solid 5px #b6ffa0;
+}
+
+iframe{
+	border: transparent; 
+	scroll-behavior: smooth;
+	scrollbar-width: thin;
+	overflow: hidden;
+}
+
+img{
+	border-radius: 15px;
+}
+
+input{
+	border-radius: 5px;
+	border-style: groove;
+}
+
+.boton{
+	font-weight: bold;
+	color: #fff;
+	border: none;
+	padding: 5px;
+	width: 100px;
+	background: #444240;
+}
+
+.boton:hover{
+	background: #b6ffa0;
+	font-size: 15px;
+}
+
+.tablaMercado{
+	border-collapse: collapse;
+	color: #fff;
+	text-align: center;
+	background:#444240;
+	border-radius: 10px;
+}
+
+.thTabla{
+	font-size: 16px;
+	background-color: #79b84f;
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+}
+
+.tituloContainer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.piePagina{
+	text-align: center;
+	background-color: #dcdad7;
+	font-size: 12px;
+	vertical-align: bottom;
+}
+
+.contTitulo{
+	font-family: "Gabriola", "Arial";
+	font-size: 20px;
+	color: #79b84f;
+}
+
+#separador{
+	color: #fff;
+}
+
+#menu{
+	background: #444240;
+	border-radius: 10px;
+	text-align: center;
+	padding: 7px
+}
+
+
+

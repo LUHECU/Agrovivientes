@@ -1,0 +1,13 @@
+
+<codestructure version="2.1.0">
+<phptree>
+<treenode node="Verificacion.php;PHP:PHP Include;1154221274;f15;2;31;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="../DBConexion.php;PHP:PHP Include;3182501273;f15;2;32;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
